@@ -19,7 +19,7 @@
 
 ## **🚀 Skills & Learning Interests**  
 - **Programming Languages**: Python, C, Java, HTML, CSS, JavaScript, ORACLE-DATABASE(SQL)  
-- **Learning**: Web Development, Machine Learning, Data Analysis  
+- **Learning**: Web Development, Machine Learning, Data Analysis and Data Science.  
 - **Interests**: Solving real-world problems using technology and enhancing programming expertise through projects and competitions.  
 
 ---
@@ -35,6 +35,3 @@ Feel free to connect with me for collaboration, projects, or any academic discus
 
 📧 **Email**: **pawansinghrajwar@gmail.com**  
 
---- 
-
-Let me know if you'd like any other updates! 😊
